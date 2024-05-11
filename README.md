@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1> Hey Folks, I'm Alex Ortega <img src="https://media.giphy.com/media/4c0sdgYcz9mpO/giphy.gif?cid=790b7611qrtayqac8hcryfu8k0g7g4df72z7m1hpd1pvw6n5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80"></h2>
+
+
+ ### Social
+[![Linkedin: AlexOrtegag](https://img.shields.io/badge/-AlexOrtegag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlexOrtegag)](https://www.linkedin.com/in/AlexOrtegag)
+
+
+[![GitHub FernandaOchoa](https://img.shields.io/github/followers/FernandaOchoa?label=follow&style=social)](https://github.com/FernandaOchoa)
+[![GitHub Followers](https://img.shields.io/github/stars/FernandaOchoa?style=social)](https://github.com/FernandaOchoa/AI-Fundamentals-Azure)
+
+
 
 <!--
 **AlexOrtegag/AlexOrtegag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
